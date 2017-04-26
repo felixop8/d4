@@ -6,7 +6,6 @@ import { D3Service } from 'd3-ng2-service';
 import { routing } from './app.routing';
 
 import { AppComponent } from './app.component';
-import { ExampleComponent } from './example/example.component';
 import { ScatterPlotComponent } from './scatter-plot/scatter-plot.component';
 import { BarPlotComponent } from './bar-plot/bar-plot.component';
 import { LinePlotComponent } from './line-plot/line-plot.component';
@@ -17,7 +16,6 @@ import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ExampleComponent,
     ScatterPlotComponent,
     BarPlotComponent,
     LinePlotComponent,

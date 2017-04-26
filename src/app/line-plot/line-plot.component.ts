@@ -15,7 +15,7 @@ export class LinePlotComponent implements OnInit {
   width: number; // These are gobal values used to scale the component
   height: number; // These are gobal values used to scale the component
   selection: any;
-  private pictureFeatures: string[] = PICTURE_FEATURES;
+   pictureFeatures: string[] = PICTURE_FEATURES;
   private featuresShowing: boolean[] =[];
 
 
