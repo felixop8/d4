@@ -10,6 +10,9 @@ https://league-manager-99750.firebaseapp.com/
 This website was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 
+# ![pageres](img/shot.png)
+
+
 ## Setup
 1. Set project root as working directory in CLI after cloning repo.
 2. Run `$ npm install`.
